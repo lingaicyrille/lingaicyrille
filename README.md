@@ -19,6 +19,8 @@
 
 <h2>👨‍💻 Hardware Development Projects:</h2>
 
+<h2>👨‍💻 Network Security Projects:</h2>
+
 <h2>👨‍💻 Certifications:</h2>
 
 
