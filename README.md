@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cyrille! <br/><a href="https://github.com/joshmadakor1">Computer Engineer</a> 
+<h1>Hi, I'm Cyrille! <br/><a href="https://github.com/lingaicyrille">Computer Engineer</a> 
 <h2>👨‍💻 Software Development Projects:</h2>
   
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
