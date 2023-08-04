@@ -19,6 +19,9 @@
 
 <h2>👨‍💻 Hardware Development Projects:</h2>
 
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- [Praciting DS & Algos in Python](https://github.com/lingaicyrille/Algorithms-Practice)
+  
 <h2>👨‍💻 Network Security Projects:</h2>
 
 <h2>👨‍💻 Certifications:</h2>
