@@ -1,8 +1,8 @@
 <h1>Hi, I'm Cyrille! <br/><a href="https://github.com/lingaicyrille">Computer Engineer</a> 
 <h2>👨‍💻 Software Development Projects:</h2>
   
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/lingaicyrille/Algorithms-Practice)
+- <b>Modulation -Demodulation of Frequency</b>
+  - [Praciting DS & Algos in Python](https://github.com/lingaicyrille/Modulation -Demodulation of Frequency
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
