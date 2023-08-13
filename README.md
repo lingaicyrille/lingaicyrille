@@ -4,6 +4,7 @@
 - <b>Modulation -Demodulation of Frequency</b>
   - [Analog-and-Digital-Communication](https://github.com/lingaicyrille/Analog-and-Digital-Communication)
   - [Amplitude-Shift Keying (ASK)](https://github.com/lingaicyrille/Amplitude-Shift-Keying)
+  - [Frequency Shift Keying (FSK)](https://github.com/lingaicyrille/Frequency-Shift-Keying).
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
