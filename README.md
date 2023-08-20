@@ -7,7 +7,7 @@
   - [Frequency Shift Keying (FSK)](https://github.com/lingaicyrille/Frequency-Shift-Keying).
   -  <b>Modulation -Demodulation of Frequency project</b>
 - <b>Java - Programming Language</b>
-  - [Object Oriented Programming ](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(OOP)</b></i>
+  - [Object Oriented Programming ](https://github.com/lingaicyrille/Java) <b><i>(OOP)</b></i>
   - [Data Structure](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(OOP)</b></i> 
   - <b>PowerShell</b>
   
