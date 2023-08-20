@@ -8,10 +8,18 @@
   -  <b>Modulation -Demodulation of Frequency project</b>
 - <b>Java - Programming Language</b>
   - [Object Oriented Programming ](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(OOP)</b></i>
-  - [Data Structure](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(OOP)</b></i>
-  
+  - [Data Structure](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(OOP)</b></i> 
   - <b>PowerShell</b>
   
+- <b>C - Programming Language</b>
+  - [Object Oriented Programming ](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(OOP)</b></i>
+  - [Data Structure](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(OOP)</b></i>
+  
+- <b>Python - Programming Language</b>
+  - [Object Oriented Programming ](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(OOP)</b></i>
+  - [Data Structure](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(OOP)</b></i>
+  
+ 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
