@@ -1,6 +1,7 @@
 <h1>Hi, I'm Cyrille! <br/><a href="https://github.com/lingaicyrille">Computer Engineer</a> 
 <h2>👨‍💻 Software Development Projects:</h2>
-  
+
+- <b>Data Communication</b>  
 - <b>Modulation -Demodulation of Frequency</b>
   - [Analog-and-Digital-Communication](https://github.com/lingaicyrille/Analog-and-Digital-Communication)
   - [Amplitude-Shift Keying (ASK)](https://github.com/lingaicyrille/Amplitude-Shift-Keying)
@@ -14,13 +15,13 @@
 - <b>C - Programming Language</b>
   - [Object Oriented Programming ](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
   - [Data Structure](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+- <b>Python</b>
+  - [Object Detection (Datastructures and Algorithms Demo)](https://github.com/lingaicyrille/Object-Detection)
+
   
-- <b>Python - Programming Language</b>
-  - [Object Oriented Programming ](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-  - [Data Structure](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-  
+
  
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Analog and Digital Communication (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/lingaicyrille/Sentinel-Lab)
@@ -31,8 +32,7 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/lingaicyrille/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/lingaicyrille/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/lingaicyrille/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Object Detection (Datastructures and Algorithms Demo)](https://github.com/lingaicyrille/Object-Detection)
+
 
 <h2>👨‍💻 Hardware Development Projects:</h2>
 
