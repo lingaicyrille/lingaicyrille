@@ -1,7 +1,7 @@
 <h1>Hi, I'm Cyrille! <br/><a href="https://github.com/lingaicyrille">Computer Engineer</a> 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Communication</b>  
+- <b>Analog and Digital Communication</b>  
 - <b>Modulation -Demodulation of Frequency</b>
   - [Analog-and-Digital-Communication](https://github.com/lingaicyrille/Analog-and-Digital-Communication)
   - [Amplitude-Shift Keying (ASK)](https://github.com/lingaicyrille/Amplitude-Shift-Keying)
@@ -18,27 +18,30 @@
 - <b>Python</b>
   - [Object Detection (Datastructures and Algorithms Demo)](https://github.com/lingaicyrille/Object-Detection)
 
-  
-
  
-- <b>Analog and Digital Communication (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Computer & Network Security (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/lingaicyrille/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/lingaicyrille/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/lingaicyrille/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/lingaicyrille/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/lingaicyrille/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/lingaicyrille/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/lingaicyrille/Key-Logger-With-Email)
+
+- <b>Data Communication (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+-  <b>Signals & Systems</b>
+   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/lingaicyrille/Sentinel-Lab)
+    
 
 
 <h2>👨‍💻 Hardware Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-- [Praciting DS & Algos in Python](https://github.com/lingaicyrille/Algorithms-Practice)
+- <b>VLSI Circuits ans Systems (AlgoExpert)</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/lingaicyrille/Sentinel-Lab)
   
+- <b>Embedded Systems Design (AlgoExpert)</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/lingaicyrille/Sentinel-Lab)
+-  <b>Digital Filter Design</b>
+   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/lingaicyrille/Sentinel-Lab)
+-  <b>Digital Circuits</b>
+   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/lingaicyrille/Sentinel-Lab)
+    
+    
 <h2>👨‍💻 Network Security Projects:</h2>
 
 <h2>👨‍💻 Certifications:</h2>
