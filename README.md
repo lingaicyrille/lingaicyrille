@@ -7,7 +7,7 @@
   - [Amplitude-Shift Keying (ASK)](https://github.com/lingaicyrille/Amplitude-Shift-Keying)
   - [Frequency Shift Keying (FSK)](https://github.com/lingaicyrille/Frequency-Shift-Keying).
 -  <b>Modulation -Demodulation of Frequency project</b>
-  - [Analog-Digital-Communication](https://github.com/lingaicyrille/Analog-Digital-Project1.git)
+  - [Analog-Digital-Project1](https://github.com/lingaicyrille/Analog-Digital-Project1.git)
 - <b>Java - Programming Language</b>
   - [Object Oriented Programming ](https://github.com/lingaicyrille/Jav) <b><i>(OOP)</b></i>
   - [Data Structure](https://github.com/lingaicyrille/4chan-Image-Analysis-Middleware-C964) <b><i></b></i> 
