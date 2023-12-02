@@ -20,7 +20,7 @@
   - [Object Detection (Datastructures and Algorithms Demo)](https://github.com/lingaicyrille/Object-Detection)
 
  
-- <b>Computer & Network Security (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Computer & Network Security</b>
   - [Network Security Project 01](https://github.com/lingaicyrille/Network-Security-Project01.git) <b><i></b></i>
 
 - <b>Data Communication (React, NodeJS, Azure, and Machine Learning Components)</b>
