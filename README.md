@@ -32,7 +32,11 @@
 
 <h2>👨‍💻 Hardware Development Projects:</h2>
 
-- <b>VLSI Circuits ans Systems (AlgoExpert)</b>
+- <b>Circuits Analysis </b>
+  - [Interfaces (Controller Area Network)](https://github.com/lingaicyrille/Sentinel-Lab)
+  
+
+- <b>VLSI Circuits and Systems </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/lingaicyrille/Sentinel-Lab)
   
 - <b>Embedded Systems Design (AlgoExpert)</b>
