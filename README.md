@@ -33,8 +33,9 @@
 <h2>👨‍💻 Hardware Development Projects:</h2>
 
 - <b>Circuits Analysis Project</b>
+  - [Interfaces USRT(Controller Area Network)](https://github.com/lingaicyrille/Sentinel-Lab)
   - [Interfaces CAN(Controller Area Network)](https://github.com/lingaicyrille/Sentinel-Lab)
-  
+ 
 
 - <b>VLSI Circuits and Systems </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/lingaicyrille/Sentinel-Lab)
