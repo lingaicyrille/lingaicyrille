@@ -33,7 +33,7 @@
 <h2>👨‍💻 Hardware Development Projects:</h2>
 
 - <b>Circuits Analysis Project</b>
-  - [Interfaces USRT(Controller Area Network)](https://github.com/lingaicyrille/Sentinel-Lab)
+  - [Interfaces USRT(Controller Area Network)](https://github.com/lingaicyrille/USART.git)
   - [Interfaces CAN(Controller Area Network)](https://github.com/lingaicyrille/Sentinel-Lab)
  
 
