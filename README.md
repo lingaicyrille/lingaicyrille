@@ -34,7 +34,7 @@
 
 - <b>Circuits Analysis Project</b>
   - [Interfaces USART(Universal Synchronous/Asynchronous Receiver/Transmitter)](https://github.com/lingaicyrille/USART.git)
-  - [Interfaces CAN(Controller Area Network)](https://github.com/lingaicyrille/Sentinel-Lab)
+  - [Interfaces CAN(Controller Area Network)](https://github.com/lingaicyrille/Interface_CAN.git)
  
 
 - <b>VLSI Circuits and Systems </b>
