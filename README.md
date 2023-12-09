@@ -36,7 +36,7 @@
   - [Interfaces USART(Universal Synchronous/Asynchronous Receiver/Transmitter)](https://github.com/lingaicyrille/USART.git)
   - [Interfaces CAN(Controller Area Network)](https://github.com/lingaicyrille/Interface_CAN.git)
   - [Interfaces I2C( Inter-Integrated Circuit)](https://github.com/lingaicyrille/Interface-I2C.git)
-  - [Interfaces I2C( Inter-Integrated Circuit)]
+  - [One Wire Interface](https://github.com/lingaicyrille/One_Wire_Project.git)
 
 
 - <b>VLSI Circuits and Systems </b>
