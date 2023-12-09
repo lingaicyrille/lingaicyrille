@@ -35,7 +35,8 @@
 - <b>Circuits Analysis Project</b>
   - [Interfaces USART(Universal Synchronous/Asynchronous Receiver/Transmitter)](https://github.com/lingaicyrille/USART.git)
   - [Interfaces CAN(Controller Area Network)](https://github.com/lingaicyrille/Interface_CAN.git)
- 
+  - [Interfaces I2C(Controller Area Network)]
+
 
 - <b>VLSI Circuits and Systems </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/lingaicyrille/Sentinel-Lab)
